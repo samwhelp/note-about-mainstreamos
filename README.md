@@ -46,6 +46,11 @@
 | [Quickshell 探索筆記](https://samwhelp.github.io/note-about-quickshell/) | [GitHub](https://github.com/samwhelp/note-about-quickshell) |
 
 
+| Link | GitHub |
+| ---- | ------ |
+| [ML4W 探索筆記](https://samwhelp.github.io/note-about-ml4w/) | [GitHub](https://github.com/samwhelp/note-about-ml4w) |
+
+
 
 
 ## Samwhelp
